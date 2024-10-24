@@ -1,8 +1,9 @@
 # Quantum
 Nvidia-Q Training
 
-My Artist Blog @riverosartist
-My Bodybuilder Blog @riverosbodybuilder
-My Quantum Computing Blog @riverosquantum
+My Artist Blog [@riverosartist](https://www.instagram.com/riverosartist/)
 
-(www.instagram.com)
+My Bodybuilder Blog [@riverosbodybuilder](https://www.instagram.com/riverosbodybuilder/)
+
+My Quantum Computing Blog [@riverosquantum](https://www.instagram.com/riverosquantum/)
+
